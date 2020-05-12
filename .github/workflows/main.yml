@@ -1,0 +1,226 @@
+name: main
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  client1:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
+
+  client2:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
+
+  client3:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
+
+  client4:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
+
+  client5:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
+
+  client6:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
+
+  client7:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
+
+  client8:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
+
+  client9:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
+
+  client10:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
+
+  client11:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
+
+  client12:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
+
+  client13:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
+
+  client14:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
+
+  client15:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
+
+  client16:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
+
+  client17:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
+
+  client18:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
+
+  client19:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
+
+  client20:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the client
+        run: |
+          npm i
+          npm start
